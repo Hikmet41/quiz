@@ -70,7 +70,7 @@
             Console.WriteLine();
             if (i < questions.Length - 1)
             {
-                Console.WriteLine("Növbəti suala keçmək üçün ENTER düyməsini basın.");
+                Console.WriteLine("Növbəti suala keçmək üçün ENTER düyməsini basın");
                 Console.ReadLine();
             }
         }
